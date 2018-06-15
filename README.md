@@ -1,4 +1,4 @@
-# WWSI-Semestr-3
+# WWSI-Semestr-4
 Zadania zaliczeniowe z JiPP Semestr 4 uczelni WWSI.
 
 Zadania wykonane w języku Polskim, ze względu na wymagania wykładowcy.
