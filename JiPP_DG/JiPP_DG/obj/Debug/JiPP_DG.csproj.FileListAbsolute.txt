@@ -1,0 +1,10 @@
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\bin\Debug\JiPP_DG.exe.config
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\bin\Debug\JiPP_DG.exe
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\bin\Debug\JiPP_DG.pdb
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\obj\Debug\JiPP_DG.csprojAssemblyReference.cache
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\obj\Debug\JiPP_DG.Form1.resources
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\obj\Debug\JiPP_DG.Properties.Resources.resources
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\obj\Debug\JiPP_DG.csproj.GenerateResource.cache
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\obj\Debug\JiPP_DG.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\obj\Debug\JiPP_DG.exe
+C:\Users\Lukasz\source\repos\JiPP_DG\JiPP_DG\obj\Debug\JiPP_DG.pdb
