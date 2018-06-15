@@ -28,9 +28,10 @@ ADO.NET:
 - Edycja dodawanie usuwanie danych za pomocą aplikacji,
 - Użycie podejścia DataSet lub EntityFramework.
 
-Wielowątkowość i asynchroniczność
+Wielowątkowość i asynchroniczność:
 - Procesy, wątki, synchronizacja wątków,
-Lub 
+
+Lub
 - Synchroniczne i asynchroniczne wywoływanie metod.
 
 # Zakres tematyczny mgr inż. Waldemar Ptasznik-Kisieliński
