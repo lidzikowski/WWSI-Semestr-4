@@ -1,0 +1,11 @@
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.csprojAssemblyReference.cache
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.Menedzer.resources
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.Properties.Resources.resources
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.csproj.GenerateResource.cache
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\bin\Debug\JiPP_LS.exe.config
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\bin\Debug\JiPP_LS.exe
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\bin\Debug\JiPP_LS.pdb
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.exe
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.pdb
+C:\Users\Lukasz\source\repos\JiPP_LS\JiPP_LS\obj\Debug\JiPP_LS.ModyfikacjaPracownika.resources
