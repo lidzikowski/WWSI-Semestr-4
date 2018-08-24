@@ -1,0 +1,11 @@
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\bin\Debug\JiPP_MK.exe.config
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\bin\Debug\JiPP_MK.exe
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\bin\Debug\JiPP_MK.pdb
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.csprojAssemblyReference.cache
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.Properties.Resources.resources
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.Szkola.resources
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.csproj.GenerateResource.cache
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.exe
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.pdb
+C:\Users\Lukasz\source\repos\JiPP_MK\JiPP_MK\obj\Debug\JiPP_MK.NowyUczen.resources
